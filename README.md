@@ -3,6 +3,7 @@
 Welcome to my Tableau Dashboard Portfolio on GitHub! This repository showcases a selection of interactive data visualizations created using Tableau Desktop. Each dashboard provides unique insights into diverse datasets and analytics topics.
 
 ## 1. Netflix Data Visualization Dashboard
+#### [Dashboard](https://public.tableau.com/views/Netflixdashboard_17070742567240/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
 This dashboard offers an insightful representation of Netflix's vast collection of movies and TV shows. It utilizes a variety of visualizations to convey key metrics and trends effectively:
   ####  Global Distribution by Country:
   Explore the geographical distribution of Netflix content through an interactive World Map visualization.
